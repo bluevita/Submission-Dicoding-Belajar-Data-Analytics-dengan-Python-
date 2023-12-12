@@ -1,4 +1,4 @@
-# Submission-Dicoding-Belajar-Data-Analytics-dengan-Python-
+# Bike Rental Dashboard 🚲
 
 # Setup environment
 conda create --name dashboard python=3.9
