@@ -9,6 +9,7 @@ conda activate dashboard
 # Run streamlit app
 streamlit run dashboard.py
 
+# About This Project
 This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make an analysis and create a dashboard from the bike-sharing dataset. In the notebook file, I attached the way I analyzed Data Wrangling, Exploratory Data Analysis, and Data Visualization. Besides that, I also make the dashboard using Streamlit, and you can check it by clicking on the link in the right sidebar or here.
 
 For further information, like the background of this dataset, dataset characteristics, file structures, and more, you can check out the Readme file. So in here, I won't explain it any further.
