@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly.express as px 
+import plotly.express as px
 
 # Baca data dari file CSV
 df_day = pd.read_csv("day.csv", index_col="instant", parse_dates=["dteday"])
